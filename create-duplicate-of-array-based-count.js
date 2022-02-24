@@ -12,7 +12,7 @@ function duplicate(arr, count){
 	return arr;
 }
 
-//or 
+//or better way 👇🏼
 
 function duplicate(arr, count){
 	  let newArr = [...arr];
